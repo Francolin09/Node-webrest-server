@@ -1,4 +1,0 @@
-ahora subiremos todo a github para despues desplegarlo 
-entonces ejecutamos el git init
-git add .
-git commit -m "primer commit"
